@@ -1,0 +1,11 @@
+{
+    "material.litter_wolf_fufu.nether_star": "下界之星",
+    "material.litter_wolf_fufu.nether_star.flavor": "璀璨且永恒",
+    "material.litter_wolf_fufu.nether_star.encyclopedia": "使工具发出附魔光效，并且不消耗耐久度，不过不能抵消特殊的耐久度消耗，例如“美味”",
+
+    "material.litter_wolf_fufu.lava": "熔岩",
+    "material.litter_wolf_fufu.lava.flavor": "烫烫烫！！！",
+    "material.litter_wolf_fufu.lava.encyclopedia": "对被攻击的生物造成5秒的燃烧",
+    "material.litter_wolf_fufu.lava.ranged": "使射出的箭矢着火，点燃击中的目标",
+    "material.litter_wolf_fufu.lava.armor": "有15%的概率使攻击者造成5秒的燃烧，火焰抗性+10%，减少15%的燃烧时间"
+}
