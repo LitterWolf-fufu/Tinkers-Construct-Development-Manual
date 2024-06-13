@@ -34,7 +34,7 @@
             "durability": 275,
             "knockback_resistance": 0.1
         },
-        "tconstruct:plating_legging": {
+        "tconstruct:plating_leggings": {
             "armor": 3.0,
             "durability": 230,
             "knockback_resistance": 0.1
