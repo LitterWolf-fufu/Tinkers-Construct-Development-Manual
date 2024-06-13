@@ -1,0 +1,29 @@
+{
+    "fallbacks": [
+        "primitive"
+    ],
+    "generator": {
+        "supportedStats": [
+            "tconstruct:binding",
+            "tconstruct:bowstring",
+            "tconstruct:armor_maille",
+            "tconstruct:maille",
+            "tconstruct:shield_core"
+        ],
+        "transformer": {
+            "type": "tconstruct:recolor_sprite",
+            "color_mapping": {
+                "type": "tconstruct:grey_to_color",
+                "palette": [
+                    {"color": "FFD2D200",   "grey": 0},
+                    {"color": "FFE0E277",   "grey": 63},
+                    {"color": "FFFDFFA8",   "grey": 102},
+                    {"color": "FF649090",   "grey": 140},
+                    {"color": "FF88A4A4",   "grey": 178},
+                    {"color": "FFB9C9C9",   "grey": 216},
+                    {"color": "FFCBD6D6",   "grey": 255}
+                ]
+            }
+        }
+    }
+}
