@@ -1,0 +1,9 @@
+{
+    "material.litter_wolf_fufu": {
+        "__tier_1__": null,
+        "nether_star": "#FFFFE0",
+
+        "__tier_2__": null,
+        "lava": "#D2510D"
+    }
+}
