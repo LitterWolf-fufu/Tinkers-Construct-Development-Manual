@@ -1,0 +1,13 @@
+{
+    "type": "tconstruct:material",
+    "ingredient": {
+        "item": "tconstruct:ichor_slime" 
+    },
+    "material": "litter_wolf_fufu:lava",
+    "needed": 4,
+    "value": 9,
+    "leftover": {
+        "count": 1,
+        "item": "tconstruct:ichor_congealed_slime"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "tconstruct:material",
+    "ingredient": {
+        "tag": "forge:slimeball/ichor" 
+    },
+    "material": "litter_wolf_fufu:lava",
+    "needed": 4,
+    "value": 1
+}
