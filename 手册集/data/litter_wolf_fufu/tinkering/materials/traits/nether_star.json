@@ -1,0 +1,12 @@
+{
+    "default": [
+        {
+            "name": "tconstruct:shiny",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:unbreakable",
+            "level": 1
+        }
+    ]
+}

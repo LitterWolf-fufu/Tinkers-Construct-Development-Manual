@@ -1,0 +1,9 @@
+{
+    "type": "tconstruct:material_fluid",
+    "fluid": {
+        "amount": 500,
+        "name": "minecraft:lava"
+    },
+    "output": "litter_wolf_fufu:lava",
+    "temperature": 1000
+}

@@ -1,0 +1,9 @@
+{
+    "type": "tconstruct:material",
+    "ingredient": {
+        "item": "minecraft:nether_star" 
+    },
+    "material": "litter_wolf_fufu:nether_star",
+    "needed": 1,
+    "value": 1
+}
