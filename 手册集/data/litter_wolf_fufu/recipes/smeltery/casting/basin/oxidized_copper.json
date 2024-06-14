@@ -1,0 +1,13 @@
+{
+    "type": "tconstruct:casting_basin",
+    "cast": {
+        "tag": "forge:storage_blocks/copper"
+    },
+    "cast_consumed": true,
+    "fluid": {
+        "amount": 4000,
+        "name": "minecraft:water"
+    },
+    "result": "minecraft:oxidized_copper",
+    "cooling_time": 1200
+}

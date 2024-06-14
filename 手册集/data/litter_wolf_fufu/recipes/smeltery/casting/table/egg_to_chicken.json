@@ -1,0 +1,13 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "item": "minecraft:egg"
+    },
+    "cast_consumed": true,
+    "fluid": {
+        "amount": 1000,
+        "name": "tconstruct:meat_soup"
+    },
+    "result": "minecraft:chicken_spawn_egg",
+    "cooling_time": 60
+}
