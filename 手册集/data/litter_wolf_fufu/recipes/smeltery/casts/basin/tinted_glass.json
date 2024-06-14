@@ -1,0 +1,10 @@
+{
+    "type": "tconstruct:molding_basin",
+    "material": {
+        "item": "minecraft:glass"
+    },
+    "pattern": {
+        "item": "minecraft:amethyst_block"
+    },
+    "result": "minecraft:tinted_glass"
+}

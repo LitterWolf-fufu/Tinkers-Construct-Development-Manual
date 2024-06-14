@@ -1,0 +1,10 @@
+{
+    "type": "tconstruct:molding_table",
+    "material": {
+        "tag": "forge:stained_glass_panes"
+    },
+    "pattern": {
+        "item": "minecraft:snowball"
+    },
+    "result": "minecraft:glass_pane"
+}
