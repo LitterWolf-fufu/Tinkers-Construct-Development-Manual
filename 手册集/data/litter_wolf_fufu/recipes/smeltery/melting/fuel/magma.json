@@ -1,0 +1,9 @@
+{
+    "type": "tconstruct:melting_fuel",
+    "duration": 250,
+    "fluid": {
+        "amount": 50,
+        "fluid": "tconstruct:magma"
+    },
+    "temperature": 300
+}
