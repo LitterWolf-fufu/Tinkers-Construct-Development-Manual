@@ -41,3 +41,11 @@
 > * _合作的朋友_
 > 
 > 嗯...目前并没有，如果项目有疏漏或者问题，请向我提交Issue或者PR，感谢！
+
+* 推荐Mods
+  * [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)(主要用于查看配方以及配方ID)
+  * [TConJEI](https://www.curseforge.com/minecraft/mc-mods/tconjei)(主要用于查看材料信息,可以不用点开匠魂的手册)(1.19版本似乎会崩...1.18应该没问题,1.19的朋友就不用加了...)
+  * [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)(主要用于在屏幕上方显示实体以及方块或物品信息)
+  * [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)(Jade的附属Mod,用于显示更多详细信息)
+  * [Json Things](https://www.curseforge.com/minecraft/mc-mods/json-things)(用于制作全局数据包和资源包,不用担心换存档时忘记迁移数据包的问题,同时也是匠魂杂物的前置Mod,这个Mod同时也和匠魂有一定联动,可以用这个Mod来制作简单的工具)
+  * [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)(主要用于获取手上的物品信息,手持物品输入`kjs_hand`(1.18)或`kjs hand`(1.19+)即可获取信息,点击就可以复制)(当然如果你会KubeJS魔改的话那肯定是如虎添翼了)
