@@ -39,8 +39,10 @@
 > 小狼娘fufu，英文名LitterWolf_fufu。也可以叫fufu或小狼
 > 
 > * _合作的朋友_
-> 
-> 嗯...目前并没有，如果项目有疏漏或者问题，请向我提交Issue或者PR，感谢！
+>
+> Qi-Month 柒月 https://github.com/Qi-Month
+>
+> 如果项目有疏漏或者问题，请向我提交Issue或者PR，感谢！
 
 * 推荐Mods
   * [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)(主要用于查看配方以及配方ID)
